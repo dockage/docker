@@ -5,4 +5,5 @@ The image installs the following extra packages:
   
 - `git`
 - `make`
+- `bash`
 - `openssh-client`
